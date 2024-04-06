@@ -33,7 +33,7 @@ function Grid() {
   }
 
     return (
-      <div>
+      <div className="board">
 
       <div className="beforegrid">
       
@@ -54,7 +54,6 @@ function Grid() {
     );
 
 }
-
 
 export default Grid;
   

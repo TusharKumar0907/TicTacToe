@@ -8,3 +8,18 @@
     grid-template-columns: repeat(3, 1fr);
 }
 
+.beforegrid{
+    margin: auto;
+}
+
+
+.board{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+
